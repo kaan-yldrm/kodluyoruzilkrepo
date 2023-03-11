@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-
+[Thank you PatikaDev and Kodluyoruz for quality content](www.patika.dev)
 ![This is my first picture in a readme file with using markdown](https://app.patika.dev/staticFiles/newPatikaLogo.svg)
 
 
