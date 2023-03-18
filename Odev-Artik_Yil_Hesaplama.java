@@ -7,9 +7,9 @@ public class Main {
 
         Scanner inputScanner = new Scanner(System.in);
 
-        System.out.println("\nÇin Zodyağı değerini hesaplayan program");
+        System.out.println("\nArtık Yıl hesaplayan program");
 
-        System.out.print("\nDoğum Yılınızı Giriniz : ");
+        System.out.print("\nYıl Giriniz : ");
         yil = inputScanner.nextInt();
 
         if (yil % 400 == 0) i = 1;
